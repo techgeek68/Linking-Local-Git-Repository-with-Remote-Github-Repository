@@ -147,7 +147,7 @@ Host github.com
 - Never commit secrets.
 ---
 
-## 9) Complete Example:
+## 9) One Shot Complete Guide:
 
 ```bash
   ssh-keygen -t ed25519 -C "your@email.com"
