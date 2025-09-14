@@ -1,0 +1,15 @@
+# Ignore OS & editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Node modules (if any Node.js scripts are ever added)
+node_modules/
+
+# Python cache (if using Python scripts)
+__pycache__/
+*.pyc
